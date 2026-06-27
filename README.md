@@ -1,4 +1,4 @@
-# TeleViT Multi-Branch Wildfire Forecasting
+# climate-conditioned-s2s-wildfire-forecasting
 
 This is a cleaned public release of the TeleViT multi-branch transformer code for global wildfire forecasting. It keeps the training, inference, model, dataset, and analysis source code, but excludes generated results, checkpoints, logs, compiled paper files, and local experiment artifacts.
 
